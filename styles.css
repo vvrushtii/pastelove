@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fce5cd; /* Baby Pink */
+    padding: 20px;
+    text-align: center;
+}
+
+.home-title {
+    font-family: 'Cursive', sans-serif;
+    font-size: 2.5em;
+    color: #7f9a7b; /* Olive Green */
+}
+
+.nav-bar {
+    margin-top: 10px;
+}
+
+.nav-link {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #7f9a7b; /* Olive Green */
+    font-weight: bold;
+}
+
+.section {
+    padding: 20px;
+}
+
+#home {
+    background-color: #f4f8f0; /* Pistachio Green */
+}
+
+.home-images img {
+    width: 18%;
+    margin: 1%;
+    border-radius: 8px;
+}
+
+#book {
+    background-color: #fdf4f1; /* Beige */
+}
+
+.first-day-photo {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+}
+
+#memories {
+    background-color: #f0f8f0; /* Light Pastel Green */
+}
+
+.memory-image {
+    width: 18%;
+    margin: 1%;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #fce5cd; /* Baby Pink */
+    padding: 10px;
+    text-align: center;
+}
+
+footer a {
+    color: #7f9a7b; /* Olive Green */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
